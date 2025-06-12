@@ -7,4 +7,4 @@ By leveraging 3 million historical sales records, my objective is to build robus
 Throughout this project, I explore my efforts in data exploration, preprocessing, modeling, and evaluating store sales data. These endeavors are aimed at empowering businesses with actionable insights, enabling them to stay ahead of market dynamics and make informed decisions.
 
 [img](/forecast plot1.png)
-![img](forecast plot2.png)
+![img](/forecast plot2.png)
